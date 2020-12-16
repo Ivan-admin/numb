@@ -1,0 +1,32 @@
+.project{
+  position: absolute;
+  width: 1904px;
+  height: 250px;
+  background:#34547A;
+  top: 2200px;
+
+}
+.conteiner-img{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+
+ 
+}
+.pages {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.img-project {
+  position: absolute;
+  width: 141px;
+  height: 50px;
+  object-fit: contain;
+} 
+
+
